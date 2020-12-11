@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Zhongkui Li's Group"
+title: "Zhongkui Li Group"
 subtitle: ""
 hero_media: Page1.png
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Welcome to Professor Zhongkui Li's Group！
